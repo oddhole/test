@@ -3,4 +3,4 @@
 def main(msg):
     print(msg)
 
-main("Hello world!")
+main("Hello all!")
